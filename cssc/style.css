@@ -171,7 +171,7 @@ main {
   height: 560px;
   display: flex;
   flex-direction: column;
-  background: url(/img/hero-bg.png);
+  background: url(/imgc/hero-bg.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center bottom;
@@ -558,7 +558,7 @@ footer {
   .heroSection {
     width: 90%;
     height: 1100px;
-    background: url(/img/hero-bg-mobile.png);
+    background: url(/imgc/hero-bg-mobile.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center bottom;
